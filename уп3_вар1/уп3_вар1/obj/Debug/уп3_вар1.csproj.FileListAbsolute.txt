@@ -1,0 +1,11 @@
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\bin\Debug\уп3_вар1.exe.config
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\bin\Debug\уп3_вар1.exe
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\bin\Debug\уп3_вар1.pdb
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.Form1.resources
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.csproj.GenerateResource.cache
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.exe
+C:\Users\Татьяна\Downloads\уп3_вар1\уп3_вар1\obj\Debug\уп3_вар1.pdb
